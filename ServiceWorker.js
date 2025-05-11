@@ -1,4 +1,4 @@
-const cacheName = "Paragliverse-Simulador de rachas de viento-1.0";
+const cacheName = "Paragliverse-Simulador de rachas de viento-1.0.1";
 const contentToCache = [
     "Build/simulador-rachas-build.loader.js",
     "Build/simulador-rachas-build.framework.js",
